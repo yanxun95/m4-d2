@@ -7,7 +7,7 @@ function release() {
     <div className="container d-flex">
       <div className="row">
         {historys.map((history) => (
-          <Col>
+          <Col key={history.asin}>
             <Card style={{ width: "18rem" }}>
               <Card.Img variant="top" src={history.img} />
               <Card.Body>
