@@ -5,11 +5,8 @@ function WelcomeJumbotron() {
   return (
     <div>
       <Jumbotron>
-        <h1>Hello, world!</h1>
-        <p>
-          This is a simple hero unit, a simple jumbotron-style component for
-          calling extra attention to featured content or information.
-        </p>
+        <h1>Book shop</h1>
+        <p>Welcome to the book shop.</p>
       </Jumbotron>
     </div>
   );

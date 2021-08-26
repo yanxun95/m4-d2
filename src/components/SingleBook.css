@@ -1,0 +1,8 @@
+.book-card,
+.book-card1 {
+  width: 18rem;
+}
+
+.book-card1 {
+  border: 2px solid red;
+}
